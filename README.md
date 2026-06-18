@@ -28,7 +28,7 @@ https://factcheck-ai-pro-gyyknd62muqqcavnhocaaf.streamlit.app/
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/factcheck-ai-pro.git
+git clone https://github.com/yashvardhan-dixit/factcheck-ai-pro.git
 cd factcheck-ai-pro
 pip install -r requirements.txt
 streamlit run app.py
