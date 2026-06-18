@@ -3,7 +3,7 @@
 An advanced web application that automatically extracts and verifies factual claims from PDF documents using AI and live web search.
 
 ## 🔗 Live Demo
-https://factcheck-ai-pro-gyyknd62muqqcavnhocaaf.streamlit.app/
+https://glorious-broccoli-v6w76xwqgrqqf66vj-8501.app.github.dev/
 
 ## ✨ Key Features
 - **AI-Powered Claim Extraction** - Automatically identifies statistics, financial data, dates, and factual assertions
